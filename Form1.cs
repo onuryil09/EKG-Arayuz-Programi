@@ -101,6 +101,7 @@ namespace WindowsFormsApp2
                     {
                         b = 0;
                         //throw;
+                        //HEllo 
                 }
                     try
                     {
